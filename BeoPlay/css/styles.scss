@@ -8,14 +8,14 @@ $brightGrey: #b2b2b2;
 
 
 /* GENERELT */
+body {
+	font-family: 'Lato', sans-serif;
+}
+
 #wrapper {
 	width: 98%;
 	margin-left:auto;
 	margin-right:auto;
-}
-
-body {
-	font-family: 'Lato', sans-serif;
 }
 
 .uppercase {
@@ -31,7 +31,7 @@ body {
 }
 
 .bright-grey {
-	color: $mediumGrey;
+	color: $brightGrey;
 }
 
 .underlined {
@@ -104,7 +104,6 @@ header {
 		font-size: 1.2em;
 		font-weight:300
 		}
-
 		a:hover {
 			font-weight:bold;
 		}

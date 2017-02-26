@@ -1,12 +1,12 @@
 /* VARIABLES */
 /* GENERELT */
+body {
+  font-family: 'Lato', sans-serif; }
+
 #wrapper {
   width: 98%;
   margin-left: auto;
   margin-right: auto; }
-
-body {
-  font-family: 'Lato', sans-serif; }
 
 .uppercase {
   text-transform: uppercase; }
@@ -18,7 +18,7 @@ body {
   color: #333333; }
 
 .bright-grey {
-  color: #333333; }
+  color: #b2b2b2; }
 
 .underlined {
   text-decoration: underline; }
